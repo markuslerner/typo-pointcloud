@@ -1,8 +1,8 @@
 # Typographical performance test (point cloud)
 
-Typographical performance test in three.js [THREE.js](https://github.com/mrdoob/three.js/) using THREE.PointCloudMaterial and THREE.PointCloud.
+Typographical WebGL performance test in three.js [THREE.js](https://github.com/mrdoob/three.js/) using THREE.PointCloudMaterial and THREE.PointCloud.
 
-[Demo](https://test.markuslerner.com/typo-pointcloud)
+[Live demo](https://test.markuslerner.com/typo-pointcloud)
 
 Compare: [Typographical performance test (single geometry)](https://github.com/markuslerner/typo)
 
